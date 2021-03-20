@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954793226167",
+    "project_id": "chatflutter-f3d44",
+    "storage_bucket": "chatflutter-f3d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954793226167:android:c483db115857cf3e478232",
+        "android_client_info": {
+          "package_name": "br.com.tanli.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954793226167-ucl91t5dg271ne0qd0sqv7sctjvl00pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tanli.chat",
+            "certificate_hash": "d800f3f84df86845b6e1910be01224393f54a2f3"
+          }
+        },
+        {
+          "client_id": "954793226167-eakd1qvm1rudii078840cv0hc05eool4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkab_bx3Nuqc1R3-mYCRQppg8N6NFfWBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954793226167-eakd1qvm1rudii078840cv0hc05eool4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

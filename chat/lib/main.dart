@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         iconTheme: IconThemeData(color: Colors.blue),
+        backgroundColor: Colors.white,
       ),
       home: ChatScreen(),
     );
